@@ -1,55 +1,76 @@
-# 👨‍💻 Hi, I'm Taha Tamer! 
+<div align="center">
 
-### 🚀 Cloud Security & DevOps Engineer | Network Specialist
-Passionate about designing, automating, and securing production-grade cloud infrastructures on **AWS** using **Terraform (IaC)**, alongside solid expertise in **Cisco Enterprise Networking** and **Linux System Administration**.
+#  Hi, I'm Taha Tamer
 
----
-
-### 🛠️ Tech Stack & Skills
-
-**Cloud & DevOps:**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-**Networking & Security:**
-![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-000000?style=for-the-badge&logo=shield&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
-
-**Programming & IoT:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=232F3E&center=true&vcenter=true&width=500&lines=Cloud+Security+%26+DevOps+Engineer;AWS+%26+Terraform+Specialist;Cisco+Networking+Architect)](https://git.io/typing-svg)
 
 ---
 
-### 🌟 Featured Portfolio Projects
-
-#### 🔒 [Secure AWS Infrastructure Built with Terraform](https://github.com/tahatame/depi-aws-security-mini-project-1)
-> Automated deployment of a resilient, Multi-AZ AWS web platform adhering to AWS Security Best Practices.
-* **Key Features:** Multi-Tier Network Isolation (VPC), Keyless Access via AWS SSM, VPC Endpoints, KMS Encryption at Rest & In-Transit, ALB + CloudFront CDN, and AWS Budgets guardrails.
-* **Tech:** Terraform, AWS (VPC, EC2, RDS, EFS, S3, SSM, CloudFront, KMS), HCL.
-
----
-
-### 📌 What I'm Currently Working On
-* ☁️ Designing Advanced Multi-Cloud Infrastructures.
-* 🛡️ Deep-diving into DevSecOps & Automated Security Pipelines.
-* 🎥 Creating technical content for **Cloud With Taha** to simplify networking & cloud concepts.
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-tamer)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahatame)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-tamer)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahatame)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@CloudWithTaha)
 
+</div>
+
 ---
 
-### 📊 GitHub Stats
-![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahatame&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahatame&layout=compact&theme=radial)
+### 🚀 About Me
+
+* 🎓 **Information Technology & Networking Student** focused on Cloud Architecture.
+* ☁️ **Cloud Security & DevOps Practitioner** building secure, production-grade systems on **AWS**.
+* ⚙️ **Infrastructure as Code (IaC)** advocate using **Terraform** for total environment automation.
+* 🌐 Strong foundation in **Cisco Enterprise Networking** (CCNA level) and **Linux System Administration**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,terraform,linux,bash,python,c,git,githubactions,docker,vscode&perline=5" />
+  </a>
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔒 Secure AWS Infrastructure (IaC)</h3>
+      <p align="center">
+        <a href="https://github.com/tahatame/depi-aws-security-mini-project-1">
+          <img src="https://img.shields.io/badge/View_Project-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        </a>
+      </p>
+      <ul>
+        <li><b>AWS Multi-AZ VPC:</b> Isolated multi-tier architecture with public/private subnets.</li>
+        <li><b>Zero-SSH Management:</b> Keyless EC2 administration via AWS SSM Session Manager.</li>
+        <li><b>Defense-in-Depth:</b> KMS Encryption, VPC Endpoints, ALB, CloudFront, & AWS Budgets.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Enterprise Network Topology</h3>
+      <p align="center">
+        <a href="https://github.com/tahatame">
+          <img src="https://img.shields.io/badge/Explore_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <ul>
+        <li>VLAN & Subnetting design for scalable enterprise networks.</li>
+        <li>Cisco Packet Tracer simulation and protocol troubleshooting.</li>
+        <li>Linux command-line network configuration & Bash automation scripts.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahatame&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahatame&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+</div>
